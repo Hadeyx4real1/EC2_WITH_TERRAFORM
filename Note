@@ -1,0 +1,7 @@
+Install Terraform on Window, Configure
+Download Vs code, add HashiCorp Terraform,Terraformautocomplet extension
+Download and install AWS CLI on wondows
+Create IAM user in AWS Ataching admin Access, Access key and Secret Access key.
+Configure IAM user- aws Configure
+Creating directory and create 3 EC2 inatnce in AWS Terraform
+
